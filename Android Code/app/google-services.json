@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172454740982",
+    "project_id": "dr-derma-c7646",
+    "storage_bucket": "dr-derma-c7646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172454740982:android:3086a6f78ecd7edbecbdd7",
+        "android_client_info": {
+          "package_name": "com.example.drderma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172454740982-sqbquvkjp4senjhvocna5sph3o6s87kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drderma",
+            "certificate_hash": "f4bc95ea847a90b24f603c205bdf2ddb9d7098cb"
+          }
+        },
+        {
+          "client_id": "172454740982-smnukt96iqdt7ahk5l9cvmcvardd2dpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOO91uf6zpqE8XcVEgfljHD6U6fIGBRVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172454740982-smnukt96iqdt7ahk5l9cvmcvardd2dpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
