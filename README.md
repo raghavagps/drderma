@@ -36,8 +36,8 @@ This consists of dermoscopic image data of 10015 images categorized into 7 odd c
      <th>Uploading</th>
       <th>Result Page</th>
   </tr>
-   <td><img src="https://github.com/apoorv098/Skin-Disease-Prediction-App/blob/main/Screenshots/logo.jpg" width=100% height=100%></td>
-   <td><img src="https://github.com/apoorv098/Skin-Disease-Prediction-App/blob/main/Screenshots/login.png" width=100% height=100%></td>
-   <td><img src="https://github.com/apoorv098/Skin-Disease-Prediction-App/blob/main/Screenshots/upload.jpg" width=100% height=100%></td>
-   <td><img src="https://github.com/apoorv098/Skin-Disease-Prediction-App/blob/main/Screenshots/prediction.jpg" width=100% height=100%></td>
+   <td><img src="https://github.com/raghavagps/drderma/blob/main/Screenshots/logo.jpg" width=100% height=100%></td>
+   <td><img src="https://github.com/raghavagps/drderma/blob/main/Screenshots/login.png" width=100% height=100%></td>
+   <td><img src="https://github.com/raghavagps/drderma/blob/main/Screenshots/upload.jpg" width=100% height=100%></td>
+   <td><img src="https://github.com/raghavagps/drderma/blob/main/Screenshots/prediction.jpg" width=100% height=100%></td>
 </table>
