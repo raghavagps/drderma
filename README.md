@@ -1,6 +1,9 @@
 # DrDerma
 Android app for skin disease prediction using deep learning
 
+## Zenodo
+https://doi.org/10.5281/zenodo.20034532
+
 ## Introduction
 <p style="text-align:justify">Skin is a very vital part of the human body that protects internal parts of the
 human body from harmful sun rays & external environmental factors like dust, germs
